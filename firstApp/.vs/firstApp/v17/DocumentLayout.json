@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\62. 08-04-2024\\63. 15-04-2023\\firstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD9AA-85A4-4397-8327-AC68C6EDF768}|firstApp\\firstApp.csproj|c:\\users\\elchin\\desktop\\codelesson\\62. 08-04-2024\\63. 15-04-2023\\firstapp\\firstapp\\views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1BDD9AA-85A4-4397-8327-AC68C6EDF768}|firstApp\\firstApp.csproj|solutionrelative:firstapp\\views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BDD9AA-85A4-4397-8327-AC68C6EDF768}|firstApp\\firstApp.csproj|c:\\users\\elchin\\desktop\\codelesson\\62. 08-04-2024\\63. 15-04-2023\\firstapp\\firstapp\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BDD9AA-85A4-4397-8327-AC68C6EDF768}|firstApp\\firstApp.csproj|solutionrelative:firstapp\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\62. 08-04-2024\\63. 15-04-2023\\firstApp\\firstApp\\Views\\Group\\Index.cshtml",
+              "RelativeDocumentMoniker": "firstApp\\Views\\Group\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\62. 08-04-2024\\63. 15-04-2023\\firstApp\\firstApp\\Views\\Group\\Index.cshtml",
+              "RelativeToolTip": "firstApp\\Views\\Group\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T17:19:10.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\62. 08-04-2024\\63. 15-04-2023\\firstApp\\firstApp\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "firstApp\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\62. 08-04-2024\\63. 15-04-2023\\firstApp\\firstApp\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "firstApp\\Controllers\\GroupController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wBsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:15:42.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
